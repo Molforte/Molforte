@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stmicroelectronics?color=4FA1F0" width="36"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stmicroelectronics?color=7EC8FF" width="36"/>
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stmicroelectronics?color=03234B" width="36"/>
     <img src="https://cdn.simpleicons.org/stmicroelectronics?color=03234B" width="36"/>
   </picture>
@@ -44,6 +44,10 @@
   <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="36"/>
   <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="36"/>
   <img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="36"/>
-  <img src="https://cdn.simpleicons.org/obsstudio?color=6B7280" width="36"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/obsstudio?color=FFFFFF" width="36"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/obsstudio?color=1A1A1A" width="36"/>
+    <img src="https://cdn.simpleicons.org/obsstudio?color=1A1A1A" width="36"/>
+  </picture>
   <img src="https://cdn.simpleicons.org/blockbench?color=8E8E8E" width="36"/>
 </p>
