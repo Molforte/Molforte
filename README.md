@@ -37,6 +37,8 @@
 - 多媒体 / 设计 Media & Design
 <p align="center">
   <img src="https://img.icons8.com/color/96/davinci-resolve.png" width="36"/>
+  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="36"/>
+  <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="36"/>
   <img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="36"/>
   <img src="https://cdn.simpleicons.org/obsstudio?color=6B7280" width="36"/>
   <img src="https://cdn.simpleicons.org/blockbench?color=8E8E8E" width="36"/>
