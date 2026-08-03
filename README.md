@@ -22,16 +22,20 @@
   <img src="assets/stm32cubemx.png" width="36"/>
   <img src="https://cdn.simpleicons.org/easyeda?color=1769FF" width="36"/>
   <img src="assets/vitis.png" width="36"/>
-  <img src="https://cdn.simpleicons.org/obsidian?color=7C3AED" width="36"/>
+  <img src="https://img.icons8.com/color/96/obsidian.png" width="36"/>
   <img src="assets/maixvision.svg" height="20"/>
 </p>
 
 - 框架 / AI Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36"/>
-  <img src="https://cdn.simpleicons.org/stmicroelectronics?color=4FA1F0" width="36"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stmicroelectronics?color=4FA1F0" width="36"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stmicroelectronics?color=03234B" width="36"/>
+    <img src="https://cdn.simpleicons.org/stmicroelectronics?color=03234B" width="36"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36"/>
-  <img src="https://cdn.simpleicons.org/ultralytics?color=666666" width="36"/>
+  <img src="https://img.icons8.com/color/96/yolo.png" width="36"/>
 </p>
 
 - 多媒体 / 设计 Media & Design
