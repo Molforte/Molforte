@@ -21,7 +21,7 @@
   <img src="assets/keil.png" width="36"/>
   <img src="assets/stm32cubemx.png" width="36"/>
   <img src="https://cdn.simpleicons.org/easyeda?color=1769FF" width="36"/>
-  <img src="https://cdn.simpleicons.org/amd?color=ED1C24" width="36"/>
+  <img src="assets/vitis.png" width="36"/>
   <img src="https://cdn.simpleicons.org/obsidian?color=7C3AED" width="36"/>
   <img src="assets/maixvision.svg" height="20"/>
 </p>
