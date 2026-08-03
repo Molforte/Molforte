@@ -18,7 +18,7 @@
 - IDE / 工具 Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/>
-  <img src="https://cdn.simpleicons.org/arm?color=0091BD" width="36"/>
+  <img src="assets/keil.png" width="36"/>
   <img src="assets/stm32cubemx.png" width="36"/>
   <img src="https://cdn.simpleicons.org/easyeda?color=1769FF" width="36"/>
   <img src="https://cdn.simpleicons.org/amd?color=ED1C24" width="36"/>
