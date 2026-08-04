@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://space.bilibili.com/353561345"><img src="https://cdn.simpleicons.org/bilibili/FB7299" width="22"/></a>
+  <a href="https://space.bilibili.com/353561345"><b>Bilibili: Molforte</b></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D353561345&query=%24.data.follower&label=%E7%B2%89%E4%B8%9D&color=FB7299&style=flat-square"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Molforte/Molforte/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Molforte/Molforte/output/github-contribution-grid-snake.svg">
