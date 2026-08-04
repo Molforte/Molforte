@@ -42,7 +42,6 @@
     <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="32"/>
   </picture></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/yolo.png" width="32"/></span>
 </p>
 
 ### Content Creation | 内容创作
