@@ -46,6 +46,6 @@
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/1A1A1A" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/8E8E8E" width="32"/></span>
 </p>
