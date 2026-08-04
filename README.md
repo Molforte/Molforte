@@ -43,9 +43,9 @@
 ### Content Creation | 内容创作
 <p align="center">
   <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/davinci-resolve.png" width="32"/></span>
-  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32"/></span>
-  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32"/></span>
-  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32"/></span>
+  <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32" style="border-radius:8px;"/>
+  <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32" style="border-radius:8px;"/>
+  <img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32" style="border-radius:8px;"/>
   <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="32"/></span>
   <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/9CA3AF" width="32"/></span>
 </p>
