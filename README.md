@@ -30,7 +30,7 @@
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/easyeda/1769FF" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/vitis.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/obsidian.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixvision.svg" height="18"/></span>
+  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixvision.svg" width="32"/></span>
 </p>
 
 ### Frameworks | 框架
@@ -58,12 +58,3 @@
   </picture></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/8E8E8E" width="32"/></span>
 </p>
-
-## 📊 Github Stats | GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molforte&show_icons=true&hide_border=true&count_private=true"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Molforte&hide_border=true"/>
-</p>
-
-![Visitors](https://komarev.com/ghpvc/?username=Molforte)
