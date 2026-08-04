@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://space.bilibili.com/353561345"><img src="https://cdn.simpleicons.org/bilibili/FB7299" width="22"/></a>
-  <a href="https://space.bilibili.com/353561345"><b>Bilibili: Molforte</b></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D353561345&query=%24.data.follower&label=%E7%B2%89%E4%B8%9D&color=FB7299&style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1200&color=00A1D6&center=true&vCenter=true&width=780&size=36&lines=Hi%2C+I%27m+Molforte+%F0%9F%91%8B;FPGA-based+Algorithm+Acceleration;Embedded+%26+AI+Learner"/>
 </p>
 
-# About me
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
 
-+ 本科电子信息在读 | 目前重点放在边缘智能和加速。<br/>EIE Undergraduate | Now focusing on Edge Intelligence & Acceleration.
++ 本科电子信息在读 | 目前重点放在FPGA上的算法加速。<br/>EIE Undergraduate | Now focusing on FPGA-based algorithm acceleration.
 + Minecraft技术玩家。<br/>A Minecraft technical player.<br/>[![NameMC](https://img.shields.io/badge/NameMC-3CB371?style=flat)](https://namemc.com/profile/Molforte.1)
 + 跆拳道黑带，喜欢跑半马。<br/>Taekwondo black belt and half-marathon enthusiast.
 
@@ -60,3 +57,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Molforte/Molforte/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Molforte/Molforte/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Molforte"/>
+</p>
