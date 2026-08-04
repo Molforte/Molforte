@@ -15,14 +15,14 @@
 
 ## 🛠️ Tech Stack | 技术栈
 
-- 编程语言 Languages
+### Languages | 编程语言
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="36"/>
 </p>
 
-- IDE / 工具 Tools
+### Tools | 开发工具
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/>
   <img src="assets/keil.png" width="36"/>
@@ -33,7 +33,7 @@
   <img src="assets/maixvision.svg" height="20"/>
 </p>
 
-- 框架 / AI Frameworks
+### Frameworks | 框架
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36"/>
   <picture>
@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/color/96/yolo.png" width="36"/>
 </p>
 
-- 多媒体 / 设计 Media & Design
+### Content Creation | 内容创作
 <p align="center">
   <img src="https://img.icons8.com/color/96/davinci-resolve.png" width="36"/>
   <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="36"/>
