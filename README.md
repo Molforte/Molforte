@@ -30,17 +30,13 @@
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/easyeda/1769FF" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/vitis.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/obsidian.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixvision.svg" width="32"/></span>
+  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixcam.png" width="32"/></span>
 </p>
 
 ### Frameworks | 框架
 <p align="center">
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stmicroelectronics/7EC8FF" width="32"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="32"/>
-    <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="32"/>
-  </picture></span>
+  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/></span>
 </p>
 
@@ -50,10 +46,6 @@
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="32"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/obsstudio/1A1A1A" width="32"/>
-    <img src="https://cdn.simpleicons.org/obsstudio/1A1A1A" width="32"/>
-  </picture></span>
+  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/1A1A1A" width="32"/></span>
   <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/8E8E8E" width="32"/></span>
 </p>
