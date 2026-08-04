@@ -11,48 +11,47 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Molforte/Molforte/output/github-contribution-grid-snake.svg">
 </picture>
 
+# About me
+
++ 本科电子信息在读 | 目前重点放在边缘智能和加速。<br/>EIE Undergraduate | Now focusing on Edge Intelligence & Acceleration.
++ Minecraft技术玩家。<br/>A Minecraft technical player.
++ 跆拳道黑带，喜欢跑半马。<br/>Taekwondo black belt and half-marathon enthusiast.
+
+<details><summary><b>More · 更多</b></summary>
+
++ 来自湖南常德。<br/>From Changde, Hunan province, China.
++ 是湖州学院的一名本科生。<br/>Undergraduate at Huzhou College in Zhejiang province.
++ 目前在学习 Zynq-7020 和国产的FPGA。<br/>Learning Zynq-7020 and homegrown FPGA platform.
+
+</details>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Tech Stack | 技术栈
 
-<table>
-  <tr>
-    <td align="center" style="white-space:nowrap;width:1%;">Languages<br/>编程语言</td>
-    <td align="left">
-      <img src="assets/tile-c.png" width="42"/>
-      <img src="assets/tile-python.png" width="42"/>
-      <img src="assets/tile-matlab.png" width="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space:nowrap;width:1%;">Tools<br/>开发工具</td>
-    <td align="left">
-      <img src="assets/tile-vscode.png" width="42"/>
-      <img src="assets/tile-keil.png" width="42"/>
-      <img src="assets/tile-cubemx.png" width="42"/>
-      <img src="assets/tile-easyeda.png" width="42"/>
-      <img src="assets/tile-vitis.png" width="42"/>
-      <img src="assets/tile-obsidian.png" width="42"/>
-      <img src="assets/tile-maixvision.png" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space:nowrap;width:1%;">Frameworks<br/>框架</td>
-    <td align="left">
-      <img src="assets/tile-pytorch.png" width="42"/>
-      <img src="assets/tile-st.png" width="42"/>
-      <img src="assets/tile-opencv.png" width="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space:nowrap;width:1%;">Content Creation<br/>内容创作</td>
-    <td align="left">
-      <img src="assets/tile-davinci.png" width="42"/>
-      <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
-      <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
-      <img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
-      <img src="assets/tile-obs.png" width="42"/>
-      <img src="assets/tile-blockbench.png" width="42"/>
-    </td>
-  </tr>
-</table>
+- ## Languages | 编程语言
+    ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+
+- ## Tools | 开发工具
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+    ![Keil](https://img.shields.io/badge/Keil-00A1E0?style=flat)
+    ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+    ![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=flat&logo=easyeda&logoColor=white)
+    ![Vitis](https://img.shields.io/badge/Vitis-8B0000?style=flat)
+    ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+    ![MaixVision](https://img.shields.io/badge/MaixVision-00B140?style=flat)
+
+- ## Frameworks | 框架
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+    ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+    ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+- ## Content Creation | 内容创作
+    ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
+    ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat)
+    ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat)
+    ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat)
+    ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
+    ![Blockbench](https://img.shields.io/badge/Blockbench-8E8E8E?style=flat&logo=blockbench&logoColor=white)
