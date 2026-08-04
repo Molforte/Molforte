@@ -34,6 +34,7 @@
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
     ![Keil](https://img.shields.io/badge/Keil-00A1E0?style=flat)
     ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+    ![SysConfig](https://img.shields.io/badge/SysConfig-E4002B?style=flat)
     ![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=flat&logo=easyeda&logoColor=white)
     ![Vitis](https://img.shields.io/badge/Vitis-8B0000?style=flat)
     ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
