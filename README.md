@@ -13,7 +13,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🛠️ 技术栈 / Tech Stack
+## 🛠️ Tech Stack | 技术栈
 
 - 编程语言 Languages
 <p align="center">
@@ -58,3 +58,10 @@
   </picture>
   <img src="https://cdn.simpleicons.org/blockbench/8E8E8E" width="36"/>
 </p>
+
+## 📊 Github Stats | GitHub 统计
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Molforte&show_icons=true&hide_border=true&count_private=true)](https://github.com/Molforte) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Molforte&hide_border=true)](https://github.com/Molforte) |
+|---|---|
+
+![Visitors](https://komarev.com/ghpvc/?username=Molforte)
