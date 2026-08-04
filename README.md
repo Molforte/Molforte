@@ -55,7 +55,7 @@
 ## Top Languages | 语言占比
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molforte&layout=compact&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Molforte&layout=compact&hide_border=true"/>
 </p>
 
 <picture>
