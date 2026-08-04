@@ -17,35 +17,35 @@
 
 ### Languages | 编程语言
 <p align="center">
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="32"/></span>
 </p>
 
 ### Tools | 开发工具
 <p align="center">
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/keil.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/stm32cubemx.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/easyeda/1769FF" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/vitis.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/obsidian.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixcam.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/keil.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/stm32cubemx.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/easyeda/1769FF" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/vitis.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/obsidian.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:7px 10px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixvision.svg" height="17"/></span>
 </p>
 
 ### Frameworks | 框架
 <p align="center">
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/stmicroelectronics/7EC8FF" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/></span>
 </p>
 
 ### Content Creation | 内容创作
 <p align="center">
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/davinci-resolve.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/davinci-resolve.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="32"/></span>
   <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="32"/></span>
-  <span style="display:inline-block;background:#F0F1F3;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/8E8E8E" width="32"/></span>
+  <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/9CA3AF" width="32"/></span>
 </p>
