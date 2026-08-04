@@ -19,40 +19,40 @@
   <tr>
     <td align="center" style="white-space:nowrap;width:1%;">Languages<br/>编程语言</td>
     <td align="left">
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="32"/></span>
+      <img src="assets/tile-c.png" width="42"/>
+      <img src="assets/tile-python.png" width="42"/>
+      <img src="assets/tile-matlab.png" width="42"/>
     </td>
   </tr>
   <tr>
     <td align="center" style="white-space:nowrap;width:1%;">Tools<br/>开发工具</td>
     <td align="left">
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/keil.png" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/stm32cubemx.png" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/easyeda/1769FF" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/vitis.png" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/obsidian.png" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:7px 10px;margin:2px;line-height:0;vertical-align:middle;"><img src="assets/maixvision.svg" height="28"/></span>
+      <img src="assets/tile-vscode.png" width="42"/>
+      <img src="assets/tile-keil.png" width="42"/>
+      <img src="assets/tile-cubemx.png" width="42"/>
+      <img src="assets/tile-easyeda.png" width="42"/>
+      <img src="assets/tile-vitis.png" width="42"/>
+      <img src="assets/tile-obsidian.png" width="42"/>
+      <img src="assets/tile-maixvision.png" height="30"/>
     </td>
   </tr>
   <tr>
     <td align="center" style="white-space:nowrap;width:1%;">Frameworks<br/>框架</td>
     <td align="left">
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/stmicroelectronics/7EC8FF" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/></span>
+      <img src="assets/tile-pytorch.png" width="42"/>
+      <img src="assets/tile-st.png" width="42"/>
+      <img src="assets/tile-opencv.png" width="42"/>
     </td>
   </tr>
   <tr>
     <td align="center" style="white-space:nowrap;width:1%;">Content Creation<br/>内容创作</td>
     <td align="left">
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://img.icons8.com/color/96/davinci-resolve.png" width="32"/></span>
+      <img src="assets/tile-davinci.png" width="42"/>
       <img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
       <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
       <img src="https://img.icons8.com/color/96/adobe-after-effects.png" width="54" style="border-radius:8px;vertical-align:middle;"/>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="32"/></span>
-      <span style="display:inline-block;background:#111111;border-radius:8px;padding:5px;margin:2px;line-height:0;vertical-align:middle;"><img src="https://cdn.simpleicons.org/blockbench/9CA3AF" width="32"/></span>
+      <img src="assets/tile-obs.png" width="42"/>
+      <img src="assets/tile-blockbench.png" width="42"/>
     </td>
   </tr>
 </table>
