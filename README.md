@@ -8,7 +8,9 @@
     [![Bilibili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fcard%3Fmid%3D353561345&query=%24.data.card.name&label=Bilibili&logo=bilibili&logoColor=white&color=00A1D6&style=flat)](https://space.bilibili.com/353561345) [![粉丝](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fcard%3Fmid%3D353561345&query=%24.data.card.fans&label=%E7%B2%89%E4%B8%9D&color=FB7299&style=flat)](https://space.bilibili.com/353561345)
 - Email | 邮箱<br>
     [Molforte@outlook.com](mailto:Molforte@outlook.com)
-
+- Personal website | 个人网站<br>
+    [https://molforte.github.io/Molforte.pages](https://molforte.github.io/Molforte.pages)
+    
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
 
 + 本科电子信息在读 | 目前重点放在FPGA上的算法加速。<br/>EIE Undergraduate | Now focusing on FPGA-based algorithm acceleration.
